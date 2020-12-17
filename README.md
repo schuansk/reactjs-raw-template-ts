@@ -20,6 +20,7 @@ O templete já trás as seguintes tecnologias configuradas:
 ### Instalação
 
 Clique em *use this template* para fazer um clone do template.
+
 Instale as *dependencies* e *devDependencies* e inicie o projeto.
 
 ```sh
